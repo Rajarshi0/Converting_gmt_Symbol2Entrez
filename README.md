@@ -11,4 +11,5 @@ And the other from provided files
 if required please do to make it executable
 
 chmod +x gmt_symbol_to_entrez.R
+
 chmod +x gmt_symbol_2_entrez.R
