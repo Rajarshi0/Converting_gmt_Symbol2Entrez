@@ -9,7 +9,6 @@ if(commandArgs(TRUE) < 2){
 }
 
 Homo_sapiens.gene_info <- args[1]
-output_file <- "genes_by_chromosome.pdf"
 
 library(ggplot2)
 library(dplyr)
